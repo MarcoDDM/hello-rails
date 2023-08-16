@@ -1,0 +1,15 @@
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/marcoddm/.rbenv/versions/2.7.0/bin/ruby -I /home/marcoddm/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20230816-14967-7n0ceu.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230816-14967-1n319v9/skiptrace/internal

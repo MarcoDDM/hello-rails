@@ -1,0 +1,17 @@
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+/home/marcoddm/.rbenv/versions/2.7.0/bin/ruby -I /home/marcoddm/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20230816-14967-1noi8go.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230816-14967-1v5qr0h/racc

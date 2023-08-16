@@ -1,0 +1,19 @@
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/home/marcoddm/.rbenv/versions/2.7.0/bin/ruby -I /home/marcoddm/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20230816-14967-1kb9od9.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /mnt/d/Trabajo/Curso Desarrollo/Microverse/Microverse Bootcamp/MODULE 5 - RUBY RAILS/hello-rails/hellorails/vendor/cache/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20230816-14967-16vr4e0/byebug
